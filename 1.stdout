@@ -1,0 +1,2312 @@
+/var/local/ansibleadmin/.subuser/registry: git ls-tree master ./
+
+/var/local/ansibleadmin/.subuser/registry: git ls-tree -d master ./
+
+/var/local/ansibleadmin/.subuser/registry: git show master:subusers.json
+
+/var/local/ansibleadmin/.subuser/registry: git show master:permissions/keepassx/permissions.json
+
+/var/local/ansibleadmin/.subuser/registry: git show master:permissions/keepassx/permissions.json
+
+Setting up subuser home dir.
+Requesting connection to X11 bridge.
+/var/local/ansibleadmin/.subuser/registry: git show master:permissions/!service-subuser-keepassx-xpra-client/permissions.json
+
+/var/local/ansibleadmin/.subuser/registry: git show master:permissions/!service-subuser-keepassx-xpra-client/permissions.json
+
+/var/local/ansibleadmin/.subuser/registry: git show master:permissions/!service-subuser-keepassx-xpra-server/permissions.json
+
+/var/local/ansibleadmin/.subuser/registry: git show master:permissions/!service-subuser-keepassx-xpra-server/permissions.json
+
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Setting up XPRA bridge volumes.
+Creating the /var/local/ansibleadmin/.subuser/volumes/xpra/keepassx/tmp/.X11-unix directory.
+Clearing xpra X11 socket.
+[Errno 13] Permission denied: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
+Cleaning up old bridge volume files.
+An error occured while setting up xpra X11 socket.
+[Errno 2] No such file or directory: '/var/local/ansibleadmin/.subuser/volumes/xpra/keepassx'
